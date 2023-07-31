@@ -1,2 +1,2 @@
 # -Image-Steganography-Tool
- Image Steganography Tool
+The "Image Steganography Tool" is a Java-based application that allows users to hide and retrieve secret messages within images. Steganography is the practice of concealing information within a carrier medium such as images, audio, or video, without drawing any suspicion to its presence. This tool enables users to encode a message into an image and later decode hidden messages from steganographically altered images.
